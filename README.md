@@ -1,2 +1,2 @@
 # TFT-CLONE
-my attemp at making an auto chess game, TFT inspired
+my attempt at making an auto chess game, TFT inspired
